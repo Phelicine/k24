@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phelicine
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Computer Science for cyber security
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...on instagram @ _wereyet
 
